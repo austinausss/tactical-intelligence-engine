@@ -1,0 +1,75 @@
+{
+  "match_id": "WC2026-FINAL-ESP-ARG",
+  "score": "Spain 1 - 0 Argentina (AET)",
+  "winner": "Spain",
+  "winning_goal": "Ferran Torres (106')",
+  "venue": "MetLife Stadium, East Rutherford, NJ",
+  "total_events": 27864,
+  "field_tilt": {
+    "team_a": "Argentina",
+    "team_b": "Spain",
+    "field_tilt_a": 21.8,
+    "field_tilt_b": 78.2,
+    "possession_a": 27.2,
+    "possession_b": 72.8,
+    "f3_actions_a": 393,
+    "f3_actions_b": 1410,
+    "territorial_verdict": "Spain dominated attacking territory (78.2% Field Tilt)"
+  },
+  "spain_metrics": {
+    "shot_efficiency": {
+      "team": "Spain",
+      "total_shots": 20,
+      "shots_on_target": 12,
+      "goals": 1,
+      "total_xg": 2.36,
+      "xg_per_shot": 0.118,
+      "shot_conversion_rate": 5.0,
+      "on_target_percentage": 60.0,
+      "on_target_conversion": 8.3,
+      "xg_efficiency_ratio": 0.42,
+      "box_shot_ratio": 0.0,
+      "clinical_rating": "Sub-Optimal Finishing (Underperforming xG)"
+    },
+    "tactical_structure": {
+      "team": "Spain",
+      "centroid_x": 55.7,
+      "centroid_y": 38.8,
+      "defensive_line_height": 80.2,
+      "effective_width_yards": 41.5,
+      "effective_length_yards": 54.1,
+      "hull_area_sq_yards": 2475.2,
+      "pitch_occupancy_pct": 25.8,
+      "tactical_archetype": "Aggressive High-Line Pressing Block"
+    },
+    "passing_network_density": 0.982
+  },
+  "argentina_metrics": {
+    "shot_efficiency": {
+      "team": "Argentina",
+      "total_shots": 2,
+      "shots_on_target": 0,
+      "goals": 0,
+      "total_xg": 0.18,
+      "xg_per_shot": 0.09,
+      "shot_conversion_rate": 0.0,
+      "on_target_percentage": 0.0,
+      "on_target_conversion": 0.0,
+      "xg_efficiency_ratio": 0.0,
+      "box_shot_ratio": 50.0,
+      "clinical_rating": "Sub-Optimal Finishing (Underperforming xG)"
+    },
+    "tactical_structure": {
+      "team": "Argentina",
+      "centroid_x": 62.1,
+      "centroid_y": 42.6,
+      "defensive_line_height": 38.7,
+      "effective_width_yards": 49.5,
+      "effective_length_yards": 54.3,
+      "hull_area_sq_yards": 2363.5,
+      "pitch_occupancy_pct": 24.6,
+      "tactical_archetype": "Deep Low-Block Defensive Wall"
+    },
+    "passing_network_density": 0.909
+  }
+}
