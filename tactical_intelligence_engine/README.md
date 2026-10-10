@@ -192,4 +192,4 @@ tactical_intelligence_engine/
 
 ## 🛡️ License & Attribution
 * Released under the [MIT License](LICENSE).
-* Event data structures follow the [StatsBomb Open Data Specification](https://github.com/statsbomb/open-data)....
+* Event data structures follow the [StatsBomb Open Data Specification](https://github.com/statsbomb/open-data).
